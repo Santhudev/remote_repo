@@ -1,5 +1,5 @@
 /* C Program to Find Largest of Two numbers */ 
-//my name is santhu   
+//my name is santhosh   
 #include <stdio.h>  
    
 void main() {  
